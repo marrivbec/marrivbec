@@ -29,6 +29,7 @@
 - [PetClinic (PSG2)](https://github.com/gii-is-psg2/psg2-2425-g3-34.git) – Implementation of a veterinary clinic management application using the Spring Boot framework.  
 - [Flight Reservation System (DP2)](https://github.com/marrivbec/gii-is-DP2-C2.033.git) – Implementation of a flight reservation system for an airline within a framework provided by the professors in the subject.  
 - [IA Project](https://github.com/Juanramire/Lightsout.git) - Implemented machine learning techniques to solve board games, specifically applied to the Lights Out puzzle.
+- [ElDiez Web Design (IR)](https://github.com/gis-ir/IR-G2-13.git) - Communication with the company ElDiez to analyze the requirements for developing an online football jersey e-commerce website.
 ---
 
 ## 📫 How to reach me  

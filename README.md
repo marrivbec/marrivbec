@@ -25,10 +25,10 @@
 ---
 
 ## 📌 Featured Projects  
-- [UpStream](#) – A video game project for university  
-- [PetClinic (PSG2)](#) – A Spring Boot project for software engineering  
-- [DP2 Flight Reservation System](#) – Airline booking platform  
-- [IA Project](#) - Board resolution through automatic planning
+- [UpStream (DP1)](https://github.com/gii-is-DP1/DP1-2024-2025--l4-4.git) – Collaborative development of a board game in JavaScript, where our team integrated the game logic, database, and user interface.  
+- [PetClinic (PSG2)](https://github.com/gii-is-psg2/psg2-2425-g3-34.git) – Implementation of a veterinary clinic management application using the Spring Boot framework.  
+- [Flight Reservation System (DP2)](https://github.com/marrivbec/gii-is-DP2-C2.033.git) – Implementation of a flight reservation system for an airline within a framework provided by the professors in the subject.  
+- [IA Project](https://github.com/Juanramire/Lightsout.git) - Implemented machine learning techniques to solve board games, specifically applied to the Lights Out puzzle.
 ---
 
 ## 📫 How to reach me  

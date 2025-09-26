@@ -1,13 +1,12 @@
 ## Hi, I´m Mario Rivas 👋
 
-🎓 4rd year Software Engineering student | 💻 Passionate about AI & Full-Stack Development
+🎓 4rd year Software Engineering student
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on: **UpStream**, **PetClinic (PSG2)**, **Padel Store Project**, **DP2 Flight Reservation System**  
-- 🌱 Learning: Artificial Intelligence, Web Development, and Software Engineering best practices  
-- ⚡ Fun fact: I enjoy building projects that mix creativity and technology
+- 🎯 Interested in **Artificial Intelligence**, **Cybersecurity**, and **App Development**  
+- 💡 Looking to grow by contributing to projects in these fields 
 
 ---
 
@@ -26,13 +25,13 @@ Frameworks: ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo
 ---
 
 ## 📌 Featured Projects  
-- 🎮 [UpStream](#) – A video game project for university  
-- 🐾 [PetClinic (PSG2)](#) – A Spring Boot project for software engineering  
-- ✈️ [DP2 Flight Reservation System](#) – Airline booking platform  
-- 🎾 [Padel Store Project](#) – E-commerce for renting courts & selling padel equipment
-
+- [UpStream](#) – A video game project for university  
+- [PetClinic (PSG2)](#) – A Spring Boot project for software engineering  
+- [DP2 Flight Reservation System](#) – Airline booking platform  
+- [IA Project](#) - Board resolution through automatic planning
 ---
 
 ## 📫 How to reach me  
-- GitHub: [jesvii](https://github.com/jesvii)  
-- Email: *your email here* 
+- GitHub: [marrivbec](https://github.com/marrivbec)
+- LinkedIn: [Mario Rivas Becerra](https://www.linkedin.com/in/mario-rivas-becerra-b83587381/)
+- Email: mrivbec@gmail.com

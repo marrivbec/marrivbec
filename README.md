@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎯 Interested in **Artificial Intelligence**, **Cybersecurity**, and **App Development**  
+- 🎯 Interested in **Artificial Intelligence**, and **App Development**  
 - 💡 Looking to grow by contributing to projects in these fields 
 
 ---

@@ -1,6 +1,6 @@
-## Hi, I´m Mario Rivas 👋
+## Hi, I´m Mario 👋
 
-🎓 4rd year **Software Engineering** student
+🎓 **Software Engineer**
 
 ---
 
